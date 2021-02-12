@@ -13,3 +13,7 @@ You can check all the files in master branch.<br>
 -<br>
 Thanks for using our service, and all feedbacks are welcomed.<br>
 Please give us the contact by e-mail.<br>
+
+# backup(2021.02)
+2019.09~2019.12 에 진행한 프로젝트
+역할 : frontend
